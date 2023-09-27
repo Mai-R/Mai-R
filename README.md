@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Mei 
+## Bem-vindo(a) ao perfil da Mai 
  <div>
    <a href="https://github.com/Mai-R">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mai-R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
