@@ -7,7 +7,7 @@
  
 <br>
 
-###  Follow me in my social média <3
+###  Follow me in my social media <3
  
 <div> 
   <a href="https://instagram.com/may_waifu_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
