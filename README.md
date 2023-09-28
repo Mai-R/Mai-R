@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Mai 
+## Welcome to my perfil!
  <div>
    <a href="https://github.com/Mai-R">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mai-R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,7 @@
  
 <br>
 
-###  Me siga nas redes sociais!
+###  Follow me in my social média <3
  
 <div> 
   <a href="https://instagram.com/may_waifu_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
